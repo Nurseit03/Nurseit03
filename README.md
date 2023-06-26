@@ -6,11 +6,8 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://t.me/nurseit_bakytbekov">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Nurseit03&style=flat-square&color=blue" alt=""/>
@@ -23,7 +20,7 @@
 👨‍💻: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bishkek.
 </div>
-👨‍🎓: I study at the University named after I.Razzakov, at the Faculty of Information Technology.
+👨‍🎓: I study at the University named after I.Razzakov, at the Faculty of Information Technology!
 
 - :seedling: Learning ReactJS.
 
