@@ -5,7 +5,7 @@
 🌐 Telegram [@clickme](https://t.me/nurseit_bakytbekov)  
 
 #### Languages and Tools :
-<p>
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="materialui" width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"  title="CSS3" alt="CSS" width="25" height="25"/>&nbsp;
@@ -16,7 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" alt="Axios" width="25" height="25"/>&nbsp;
   
-</p>
+</div>
 
 #### Github stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nurseit03&include_all_commits=true&hide=prs,issues&show_icons=true&theme=dark)
