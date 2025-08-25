@@ -17,6 +17,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" alt="Axios" width="25" height="25"/>&nbsp;
   
 </div>
-
-#### Github stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nurseit03&include_all_commits=true&hide=prs,issues&show_icons=true&theme=dark)
